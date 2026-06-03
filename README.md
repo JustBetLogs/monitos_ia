@@ -1,6 +1,6 @@
 # 🐒 Monitos IA — Visión Artificial con Manos
 
-Proyecto de visión por computadora que detecta gestos con tu mano usando la cámara web y muestra un monito dependiendo del gesto. Hecho en Python con MediaPipe y OpenCV.
+Proyecto de visión por computadora que detecta gestos con tus manos usando la cámara web y muestra un monito dependiendo del gesto. Hecho en Python con MediaPipe y OpenCV.
 
 ---
 
