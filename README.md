@@ -27,7 +27,7 @@ Proyecto de visión por computadora que detecta gestos con tus manos usando la c
 git clone https://github.com/JustBetLogs/monitos_ia.git
 cd monitos-ia
 
-# 2. Instala las dependencias
+# 2. Instala las dependencias, puedes cambiarlas a otras versiones que te sean útiles
 pip install -r requirements.txt
 
 # 3. Ejecuta el proyecto
