@@ -55,7 +55,7 @@ Presiona `ESC` para salir.
 ## 👤 Autor
 
 Hecho por **[Bet]** aún hace falta mucho por mejorar, pero vamos aprendiendo juntos c:
-📸 Instagram: [@bet_logs_](https://instagram.com/bet_logs_)
+📸 Instagram: [@bet_logs_](https://instagram.com/ibeth.lab)
 
 ---
 
